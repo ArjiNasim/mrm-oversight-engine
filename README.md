@@ -1,6 +1,6 @@
 # MRM-Oversight : Model Risk Management Dashboard (2LoD)
 
-🚀 [Live dashboard](#) *(Pensez à remplacer le # par votre lien Streamlit final)*
+🚀 [Live dashboard](https://mrm-oversight-engine-kh5bcsxqtfc9uraderws8t.streamlit.app/)
 
 ## 🛡️ Overview
 
